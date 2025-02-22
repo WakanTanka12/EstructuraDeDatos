@@ -3,6 +3,7 @@
 #include <iomanip>
 
 #define MAX 1000
+ //sexo sexo ñi Ñi
 
 using namespace std;
 
